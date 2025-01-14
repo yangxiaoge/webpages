@@ -5,7 +5,7 @@ https://yangxiaoge.github.io/
 https://yangxiaoge.github.io/yingshi
 
 # Android图标
-https://yangxiaoge.github.io/android/
+https://yangxiaoge.github.io/android/android
 
 # appicon-forge图标
 https://yangxiaoge.github.io/android/appicon-forge
